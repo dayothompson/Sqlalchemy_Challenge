@@ -1,4 +1,4 @@
-## Unit 10 - Advanced Data Storage and Retrieval
+## Advanced Data Storage and Retrieval
 
 ### Objectives
 
@@ -28,6 +28,3 @@
 
 - - -
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
